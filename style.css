@@ -1,0 +1,19 @@
+body {
+  background-color: #65db8c;
+}
+#ajoutApprenant {
+  display: flex;
+  justify-content: space-between;
+}
+#ajoutApprenant button {
+  height: 40px;
+  align-self: flex-end;
+  margin-right: 650px;
+}
+#formerGroupes {
+  display: flex;
+}
+
+div .error {
+  color: red;
+}
